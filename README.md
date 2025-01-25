@@ -21,5 +21,5 @@ An AI chatbot that enables users to upload PDF documents, ask questions about th
 ![Output (2)](https://github.com/user-attachments/assets/3773609c-a414-4a40-97e5-abddac97dc1e)
 
 ## Relevant Link
-- [AI-Powered PDF Query and Appointment Chatbot](https://pdf-query-appointment-chatbot.streamlit.app/))
+- [AI-Powered PDF Query and Appointment Chatbot](https://pdf-query-appointment-chatbot.streamlit.app/)
 
